@@ -1,10 +1,12 @@
 name = "Raufu"
 age = 21
 isMale = True
-print("Hey I am "+name+". I am ", age, "years old.")
+names = ["Raufu", "Prezens", "Eftykhar", "Rahman"]
 
-print("Hello "+name)
-print("I am",name,"and I am",age,"years old\nRaufu Prezens\' Gaming PC")
+print("Hey I am "+names[2]+". I am ", age, "years old.")
+
+print("Hello "+names[3])
+print("I am", name, "and I am", age, "years old\nRaufu Prezens\' Gaming PC")
 
 print(type(name))
 print(type(age))
