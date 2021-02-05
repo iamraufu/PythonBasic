@@ -1,2 +1,2 @@
 # PythonBasic
-"# email-bot" 
+This repo contains Python practice
